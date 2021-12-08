@@ -1,7 +1,7 @@
 
 <html>
 <head>
-<title>Edu.bd.Self Develop</title>
+<title></title>
 </head>
 <body>
 
